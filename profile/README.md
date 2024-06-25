@@ -5,7 +5,7 @@ Aujourd'hui, Internet regorge d'une abondance d'informations parfois difficiles 
 
 
 <div align="center">
-  <img src="https://docs.project-maker.fr/img/logoV2.png" alt="Project-Maker.fr Logo">
+  <img src="https://docs.project-maker.fr/img/logoV2.png" alt="Project-Maker.fr Logo" width="200">
   <h2>Project Maker FR</h2>
 </div>
 
