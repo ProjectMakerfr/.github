@@ -5,6 +5,8 @@ Aujourd'hui, Internet regorge d'une abondance d'informations parfois difficiles 
   <img src="https://docs.project-maker.fr/img/logoV2.png" alt="Project-Maker.fr Logo" width="200">
 </div>
 
+buy_me_a_coffee: USERNAME
+
 ## Statut Des Services
 
 Lien de l'uptime : [Cliquez ici pour connaître l'uptime des services](https://uptime.project-maker.fr/)
