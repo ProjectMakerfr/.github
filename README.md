@@ -25,3 +25,4 @@ Lien de l'uptime : [Cliquer ici pour connaître l'uptime des services](https://u
   
   <p>Docs : docs.project-maker.fr</p>
   <img src="https://uptime.project-maker.fr/api/badge/3/uptime?style=for-the-badge" alt="Documentation Status">
+ 
