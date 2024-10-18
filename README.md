@@ -15,11 +15,8 @@ Lien de l'uptime : [Cliquer ici pour connaître l'uptime des services](https://u
 
 
   <p>Project-Maker.fr</p>
-  <img src="https://uptime.project-maker.fr/api/badge/6/status?style=for-the-badge&cacheBust=TIMESTAMP" alt="Project-Maker.fr Status">
+  <img src="https://uptime.project-maker.fr/api/badge/1/uptime?style=for-the-badge" alt="Project-Maker.fr Status">
 
 
-  <img src="https://uptime.project-maker.fr/api/badge/7/status?style=for-the-badge&cacheBust=TIMESTAMP" alt="Documentation Status">
-
-
-  <img src="https://uptime.project-maker.fr/api/badge/10/status?style=for-the-badge&cacheBust=TIMESTAMP" alt="API Rex Status">
+  <img src="https://uptime.project-maker.fr/api/badge/2/uptime?style=for-the-badge" alt="Documentation Status">
 
