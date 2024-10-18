@@ -12,7 +12,7 @@ Lien de l'uptime : [Cliquez ici pour connaître l'uptime des services](https://u
 <p>Home : project-Maker.fr</p>
 <img src="https://uptime.project-maker.fr/api/badge/1/uptime?style=for-the-badge" alt="Project-Maker.fr Status">
 
-<p>API : apis.project-maker.fr</p>
+<p>API : api.project-maker.fr</p>
 <img src="https://uptime.project-maker.fr/api/badge/2/uptime?style=for-the-badge" alt="Apis Status">
 
 <p>Dash : dash.project-maker.fr</p>
